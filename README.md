@@ -19,6 +19,11 @@ memory. Standard library only.
 - **Numbers.** 131 tests: 130 pass and 1 is skipped on Windows, where it needs the right to create symbolic
   links. Run with pytest 9.0.3 on Windows 11, 2026-11-25. The CI job on Linux runs all 131.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="diagrams/tools-dark.svg">
+  <img alt="plankit replays plans in a fresh worktree; memory writes pass an injection screen; profile_gate leaves the last step to a person" src="diagrams/tools-light.svg" width="100%">
+</picture>
+
 ## Install and run
 
 Clone this repository, then from its folder:
