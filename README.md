@@ -3,6 +3,9 @@
 Small, tested Python tools for running coding agents against a written plan, with review gates and an advisory
 memory. Standard library only.
 
+How I use tools like these day to day, with dated counts and what went wrong:
+[a month of agent work, counted](docs/workflow-telemetry-2026-11.md).
+
 ## At a glance
 
 - **What it is.** Four modules taken from the tooling I use to run Claude Code agents on a larger private project,
